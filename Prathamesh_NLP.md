@@ -9,5 +9,7 @@ Natural Language Processing
  - TF-IDF
 8. scikit learn
 9. NLTK
-10. Levenshtein Distance
-11. Word Embedding (text vectors)
+10. spaCy
+11. Levenshtein Distance
+12. Word Embedding (text vectors)
+13. Entity Extraction
