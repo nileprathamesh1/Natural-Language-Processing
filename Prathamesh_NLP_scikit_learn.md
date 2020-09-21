@@ -24,6 +24,21 @@ Scikit Learn gives us a practical access to a lot of Machine Learning Algorithms
     and it directly divides the dataset into data and target sets.
     
  2. Text Preprocessing
+   Text may contain numbers, special characters, and unwanted spaces. Depending upon the problem we face, we may or may not need to remove \
+   these special characters and numbers from text. And this is what preprocessing is removing symbols special characters etc.
+ 
+ 3. Tokenization and Bag of Words
+ 
+   Tokenization is the process of breaking a document down into words, punctuation marks, numeric digits, etc.
+   
+ 4. Tf-idf Vectorizer
+ 
+   TF-IDF is an abbreviation for Term Frequency Inverse Document Frequency. This is very common algorithm to transform text into a meaningful 
+   representation of numbers which is used to fit machine algorithm for prediction.
+   
+ 
+ 
+  
  
     
  
