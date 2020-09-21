@@ -42,6 +42,10 @@ Scikit Learn gives us a practical access to a lot of Machine Learning Algorithms
  It is Simply classification or analysis of emotions using language processing and text processing techniques
  e.g. Tweet sentiment analysis
  
+ 
+ #### Prathamesh Nile
+ 
+ 
   
  [<img src="https://github.com/nileprathamesh1/logos/blob/master/instagram-logo.png" width="25" height="25" />](https://www.instagram.com/dr.winter__1512/)
 [<img src="https://github.com/nileprathamesh1/logos/blob/master/linkedin%20logo.png" width="25" height="25" />](https://www.linkedin.com/in/prathamesh-nile-51960216b/)
