@@ -24,6 +24,7 @@ Scikit Learn gives us a practical access to a lot of Machine Learning Algorithms
     and it directly divides the dataset into data and target sets.
     
  2. Text Preprocessing
+   
    Text may contain numbers, special characters, and unwanted spaces. Depending upon the problem we face, we may or may not need to remove \
    these special characters and numbers from text. And this is what preprocessing is removing symbols special characters etc.
  
@@ -36,9 +37,19 @@ Scikit Learn gives us a practical access to a lot of Machine Learning Algorithms
    TF-IDF is an abbreviation for Term Frequency Inverse Document Frequency. This is very common algorithm to transform text into a meaningful 
    representation of numbers which is used to fit machine algorithm for prediction.
    
+ 5. Sentiment Analysis
  
+ It is Simply classification or analysis of emotions using language processing and text processing techniques
+ e.g. Tweet sentiment analysis
  
   
- 
+ [<img src="https://github.com/nileprathamesh1/logos/blob/master/instagram-logo.png" width="25" height="25" />](https://www.instagram.com/dr.winter__1512/)
+[<img src="https://github.com/nileprathamesh1/logos/blob/master/linkedin%20logo.png" width="25" height="25" />](https://www.linkedin.com/in/prathamesh-nile-51960216b/)
+[<img src="https://github.com/nileprathamesh1/logos/blob/master/facebook_logo.png" width="25" height="25" />](https://www.facebook.com/profile.php?id=100009048113675)
+[<img src="https://github.com/nileprathamesh1/logos/blob/master/github_logo.png" width="25" height="25" />](https://github.com/nileprathamesh1/)
+[<img src="https://github.com/nileprathamesh1/logos/blob/master/twitter_logo.png" width="25" height="25" />](https://twitter.com/NilePratham1512)
+
+
+
     
  
